@@ -1,0 +1,7 @@
+interface:
+  display_name: "Spec Verify Optimize"
+  short_description: "Goal-first checkpointed project collaboration"
+  default_prompt: "Use $spec-verify-optimize to clarify my project goal, choose the highest-value bucket, and set a checkpoint before execution."
+
+policy:
+  allow_implicit_invocation: true
